@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Photo: Abandoned Factory Grounds"
+date:   2016-11-6 16:58:38 -0500
+categories: photography
+---
+Exploring some abandoned factory grounds. 
+
+
+![Photo]({{site.url}}/assets/img/11-6-2016/IDSC0094.jpg)
+
+![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00247.jpg)
+
+![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00255.jpg)
+
+![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00364.jpg)
+
+
+
+
+
+
