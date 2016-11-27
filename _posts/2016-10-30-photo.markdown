@@ -7,17 +7,17 @@ categories: photography
 These are all some of the earliest images I took. All before 10/30/2016. 
 
 
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG3311.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG5084.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG5709.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_3311.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_5084.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_5709.JPG)
 
 
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0692.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0702.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0793.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0822.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0849.JPG)
-![Photo]({{site.url}}/assets/img/10-30-2016/IMG0887.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0692.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0702.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0793.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0822.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0849.JPG)
+![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0887.JPG)
 
 
 
