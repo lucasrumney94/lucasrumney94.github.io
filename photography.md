@@ -4,7 +4,7 @@ title: Photography
 permalink: /photography/
 ---
 
-This is Photography
+This is a collection of all my Photography related posts
 
 <ul>
 {% for post in site.categories.photography %}
