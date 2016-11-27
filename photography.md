@@ -7,7 +7,7 @@ permalink: /photography/
 This is Photography
 
 <ul>
-	{% for post in site.categories.and %}
+{% for post in site.categories.photography %}
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
+{% endfor %}
 </ul>
