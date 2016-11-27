@@ -7,13 +7,13 @@ categories: photography
 Exploring some abandoned factory grounds. 
 
 
-![Photo]({{site.url}}/assets/img/11-6-2016/IDSC0094.jpg)
+![Photo]({{site.url}}/assets/img/11-6-2016/DSC00094.jpg)
 
-![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00247.jpg)
+![Photo]({{site.url}}/assets/img/11-6-2016/DSC00247.jpg)
 
-![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00255.jpg)
+![Photo]({{site.url}}/assets/img/11-6-2016/DSC00255.jpg)
 
-![Photo]({{site.url}}/assets/img/11-6-2016/IDSC00364.jpg)
+![Photo]({{site.url}}/assets/img/11-6-2016/DSC00364.jpg)
 
 
 
