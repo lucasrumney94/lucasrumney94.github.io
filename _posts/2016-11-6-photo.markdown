@@ -6,6 +6,7 @@ categories: photography
 ---
 Exploring some abandoned factory grounds. 
 
+Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]). 
 
 ![Photo]({{site.url}}/assets/img/11-6-2016/DSC00094.jpg)
 
@@ -16,6 +17,7 @@ Exploring some abandoned factory grounds.
 ![Photo]({{site.url}}/assets/img/11-6-2016/DSC00364.jpg)
 
 
+[xueer]: https://github.com/sherryxzhu
 
 
 
