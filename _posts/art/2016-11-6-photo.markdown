@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Art: Exploration of Glitch Art"
+date:   2016-11-6 16:58:38 -0500
+categories: art
+---
+I have been exploring glitch art. 
+
+
+![Photo]({{site.url}}/assets/img/11-6-2016/DSC00094.jpg)
+
+
+
+I recently entered North Carolina State University's [CODE+ART][codeartinfo] competition and won 3rd place with my piece ["Spiral's Edge"][myentry]. Be patient, as it may take a while to load and run at a low framerate. It was built for a [high power computer running a uncommon resolution array of screens.][artwall]
+
+Library Article Excerpt:
+
+"    Rumney’s “Spiral’s Edge” animates different 3D models and structures based on composite sine waves -- a simple pattern that appears in almost every discipline within mathematics or engineering. Visually beautiful, complex images emerge when constructive and destructive interference is introduced     "
+
+
+
+[myentry]: http://lucasrumney94.github.io/codeartv3/
+[codeartinfo]: https://www.lib.ncsu.edu/codeart
+[artwall]: https://www.lib.ncsu.edu/spaces/artwall
+
