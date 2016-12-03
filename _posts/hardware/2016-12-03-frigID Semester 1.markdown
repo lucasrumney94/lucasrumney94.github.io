@@ -14,7 +14,9 @@ Logo design courtesy of Xueer Zhu ([@sherryxzhu][xueer]).
 My team's project was frigID. Our project will let a shopper know what is in their fridge while they are out shopping. 
 
 
-By this Design Day we were tasked with completing a basic prototype. The prototype will take pictures of the interior of a user's fridge, and then allow the user to view those pictures on any web-enabled device. 
+By this Design Day we were tasked with completing a basic prototype. The prototype takes pictures of the interior of a user's fridge, allowing the user to view those pictures on any web-enabled device. 
+
+Imagine being at the store, wondering whether or not you need milk. With frigID, you can check on the fly.  
 
 
 This is our poster from design day.
