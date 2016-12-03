@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HW: frigid Design Day 1"
+title:  "HW: frigid design day 1"
 date:   2016-12-03 12:50:38 -0500
 categories: hardware
 ---
