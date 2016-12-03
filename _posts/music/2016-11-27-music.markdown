@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Music: Recent Sketches"
+title:  "Music: recent sketches"
 date:   2016-11-27 17:59:38 -0500
 categories: music
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Photo: Day out in Raleigh"
+title:  "Photo: day in raleigh"
 date:   2016-10-30 16:58:38 -0500
 categories: photography
 ---
