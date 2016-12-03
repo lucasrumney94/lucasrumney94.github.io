@@ -23,7 +23,9 @@ This is our poster from design day.
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRU6mKfII42va7rMGRkuCbTzd8RwrtisGaqdrVbmo8i6ZWhJ-wmNviVkR3gBGBDUUGn5F3uuXgyEQr-/pub?w=3840&amp;h=2880">
 
-[Our drive][drive] contains all of the public documentation of our project. Please feel free to contact me with questions or other details. 
+[Our drive][drive] contains all of the public documentation of our project. 
+
+Please feel free to contact me with questions or other details. 
 
 
 
