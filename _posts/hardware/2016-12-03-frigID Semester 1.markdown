@@ -7,7 +7,7 @@ categories: hardware
 
 I recently participated in North Carolina State University's [ECE Senior Design Day][dday]. Students are given the choice of working on around 30 different projects that are sponsored by either companies or professors. 
 
-![logo]({{site.url}}/assets/logo/frigid.jpg)
+![logo]({{site.url}}/assets/logo/frigid.png)
 
 Logo design courtesy of Xueer Zhu ([@sherryxzhu][xueer]). 
 
