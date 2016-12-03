@@ -8,6 +8,7 @@ categories: hardware
 I recently participated in North Carolina State University's [ECE Senior Design Day][dday]. Students are given the choice of working on around 30 different projects that are sponsored by either companies or professors. 
 
 ![Photo]({{site.url}}/assets/logo/frigid.png)
+
 Logo design courtesy of Xueer Zhu ([@sherryxzhu][xueer]). 
 
 My team's project was frigID. Our project will let a shopper know what is in their fridge while they are out shopping. 
@@ -20,7 +21,7 @@ This is our poster from design day.
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRU6mKfII42va7rMGRkuCbTzd8RwrtisGaqdrVbmo8i6ZWhJ-wmNviVkR3gBGBDUUGn5F3uuXgyEQr-/pub?w=3840&amp;h=2880">
 
-[Our drive][drive] contains all of the documentation and details of our project. 
+[Our drive][drive] contains all of the public documentation of our project. Please feel free to contact me with questions or other details. 
 
 
 
