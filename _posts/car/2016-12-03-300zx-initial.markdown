@@ -42,7 +42,7 @@ Open
 ![car]({{site.url}}/assets/car/car2.jpg)
 
 
-Following Photos courtesy of Xueer Zhu ([@sherryxzhu][xueer])
+Following photos courtesy of Xueer Zhu ([@sherryxzhu][xueer])
 
 ![car]({{site.url}}/assets/car/car3.JPG)
 
