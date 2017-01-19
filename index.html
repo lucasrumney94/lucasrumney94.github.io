@@ -1,23 +1,48 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Lucas Rumney</title>
 
-<div class="home">
+	<meta name="author" content="Xueer Zhu">
+	<meta name="viewport" content="width=1000, user-scalable=no">
 
-  <h1 class="page-heading">Posts</h1>
+	<link href="https://fonts.googleapis.com/css?family=Bungee|Raleway"rel="stylesheet">
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div>
+		<span class="name"><p align="center" id="name">L U C A S  -  R U M N E Y</p></span>
+	</div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+		<section class="icon" align="center">
+			<a href="https://www.linkedin.com/in/lucas-rumney-40856986" target="_blank"><img src="icon/linkedin.png" alt="" id="icon"></a>
+			<a href="https://github.com/lucasrumney94" target="_blank"><img src="icon/github.png" alt="" id="icon"></a>
+			<a href="https://www.flickr.com/photos/146084172@N06/" target="_blank"><img src="icon/flickr.png" alt="" id="icon"></a>
+			<a href="https://soundcloud.com/lucas-rumney/tracks" target="_blank"><img src="icon/soundcloud.png" alt="" id="icon"></a>
+		
+		</section><br>
+		<section id="content">
+			<div class="content"><img src="lucas.png" alt="" width="100%"></div>
+			
+		</section>
+		<div>
+			
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			<button class="paginate left"><i></i><i></i></button>
+			<button class="paginate right"><i></i><i></i></button>
+		</div>
+			
 
-</div>
+		
+
+
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+		
+
+
+</body>
+</html>
