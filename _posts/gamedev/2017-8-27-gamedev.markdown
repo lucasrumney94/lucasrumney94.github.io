@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Game Dev: Kenney Game Jam"
+title:  "Game Dev: Kenney game jam"
 date:   2017-8-27 16:58:38 -0500
 categories: gamedev
 ---
