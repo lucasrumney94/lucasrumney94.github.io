@@ -32,17 +32,22 @@ rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), Force
 
 <img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" width="50%" style="text-align: center;"/>
 
+
 **Hindsight**
 
-Wish sea was less steep
-Could have made tiles larger and used less and allowed them to animate without killing frames.
-Sound could have been better implemented (or at all) if I hadn't have run into several bugs.
-Does it make sense to sail backwards??
+In hindsight I could have fixed several things within the timeframe of the game jam. I could have allowed the playable area to be much larger, by scaling up the tiles and spawning fewer of them. Also, in the same vein, I believe the sea 'waves' could be less steep, allowing more fluid movement. I ran into some issues with implementing sound whose root cause lies in the filetypes I was attempting to use. If I had done audio work more recently in Unity, I believe this wouldn't have been an issue. Lastly, I am not so certain it makes sense to allow the player to sail backwards at full speed. I would, in hindsight, like to have applied a multiplier to the backwards force to make it very small. This would allow the player to move backwards in the case of getting stuck, but it would be slow, almost as if they are having to 'paddle'.
 
 **Future**
 
-Water Particles
-Title Screen
+If I were to continue working on this project some of the features I would enjoy adding are:
+
+- Water Particle Effects (especially across the bow of ships)
+- Title Screen with 'Press Start prompt' (It's the little things)
+- more ship types
+- more island and obstruction types
+- ramps over islands
+- treasure chests to hit on top of islands requiring the use of ramps, granting gold
+
 
 
 [kenney]: https://itch.io/jam/kenney-jam-2017
