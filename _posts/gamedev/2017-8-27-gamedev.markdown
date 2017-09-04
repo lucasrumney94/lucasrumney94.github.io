@@ -9,7 +9,7 @@ categories: gamedev
 
 In order to keep moving forward in game development I have decided to participate in a small jam called the [Kenney Game Jam][kenney]. The rules of the jam state that I could only use assets from the [Kenney Asset Website][kenneyassets]. I made this small game in about 5 hours.
 
-<iframe width="552" frameborder="0" height="167" src="https://itch.io/embed/171489"></iframe>
+<iframe width="100%" frameborder="0" src="https://itch.io/embed/171489"></iframe>
 
 <br/>
 **Dev Log**
