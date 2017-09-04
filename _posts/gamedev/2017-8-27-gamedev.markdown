@@ -33,8 +33,8 @@ rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), Force
 
 <br/>
 
-<img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" width="50%" style="text-align: center;"/>
-![collider]({{site.url}}/assets/gamedev/correction.gif){: .center-image .width-fifty}
+
+![correction]({{site.url}}/assets/gamedev/correction.gif){: .center-image .width-fifty}
 
 **Hindsight**
 
