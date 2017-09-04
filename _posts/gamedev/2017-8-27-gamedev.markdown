@@ -24,7 +24,7 @@ The axes of control given to the user are two dimensional. The user can steer th
 
 The roll is probably the most interesting axis I had to deal with. Using the cross product of the global UP axis and the local UP axis I found a vector that was either positive or negative based on if the boat was rolling left or right. Applying this corrective torque (which is proportional to how rolled over the ship is) in the roll axis allowed the boat to seem like it was rolling upright in water. Testing was required to adjust both the torque and the angular drag on the boat to make sure its not under or over damped.
 
-![correction]({{site.url}}/assets/gamedev/correction.gif =133x75)
+![correction]({{site.url}}/assets/gamedev/correction.gif)
 
 
 **Hindsight**
