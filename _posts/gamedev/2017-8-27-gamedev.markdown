@@ -26,9 +26,9 @@ The axes of control given to the user are two dimensional. The user can steer th
 
 The roll is probably the most interesting axis I had to deal with. Gravity and the terrain influence this axis, but I needed a righting mechanism to simulate the movement of a boat. Using the cross product of the global positive Y axis and the local positive Y axis I found a vector that was either positive or negative based on if the boat was rolling left or right. Applying this corrective torque (which is proportional to how rolled over the ship is) in the roll axis allowed the boat to seem like it was floating in water. Testing was required to adjust both the torque and the angular drag on the boat to make sure its not under or over damped.
 
-rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), ForceMode.Force); |
-----------------------------------------------------------------------------------------------|
-
+rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), ForceMode.Force); |.
+----------------------------------------------------------------------------------------------|-----
+|
 
 <img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" width="50%" style="text-align: center;"/>
 
