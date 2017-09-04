@@ -26,20 +26,21 @@ The axes of control given to the user are two dimensional. The user can steer th
 
 The roll is probably the most interesting axis I had to deal with. Gravity and the terrain influence this axis, but I needed a righting mechanism to simulate the movement of a boat. Using the cross product of the global positive Y axis and the local positive Y axis I found a vector that was either positive or negative based on if the boat was rolling left or right. Applying this corrective torque (which is proportional to how rolled over the ship is) in the roll axis allowed the boat to seem like it was floating in water. Testing was required to adjust both the torque and the angular drag on the boat to make sure its not under or over damped.
 
-rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), ForceMode.Force); |.
-----------------------------------------------------------------------------------------------|-----
-|
+-----
+rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), ForceMode.Force);
+
+-----
 
 <img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" width="50%" style="text-align: center;"/>
 
 
 **Hindsight**
 
-In hindsight I could have fixed several things within the timeframe of the game jam. I could have allowed the playable area to be much larger, by scaling up the tiles and spawning fewer of them. Also, in the same vein, I believe the sea 'waves' could be less steep, allowing more fluid movement. I ran into some issues with implementing sound whose root cause lies in the filetypes I was attempting to use. If I had done audio work more recently in Unity, I believe this wouldn't have been an issue. Lastly, I am not so certain it makes sense to allow the player to sail backwards at full speed. I would, in hindsight, like to have applied a multiplier to the backwards force to make it very small. This would allow the player to move backwards in the case of getting stuck, but it would be slow, almost as if they are having to 'paddle'.
+In hindsight I could have fixed several things within the timeframe of the game jam. I could have allowed the playable area to be much larger by scaling up the tiles and spawning fewer of them. Also, in the same vein, I believe the sea 'waves' could have been less steep, allowing more fluid movement. I ran into some issues with implementing sound whose root cause lies in the filetypes I was attempting to use. If I had done audio work more recently in Unity, I believe this wouldn't have been an issue. Lastly, I am not so certain it makes sense to allow the player to sail backwards at full speed. I would, in hindsight, like to have applied a multiplier to the backwards force to make it very small. This would allow the player to move backwards in case of getting stuck, but it would be slow, almost as if they are having to 'paddle'.
 
 **Future**
 
-If I were to continue working on this project some of the features I would enjoy adding are:
+If I were to continue working on this project in the future the possible features could be:
 
 - Water Particle Effects (especially across the bow of ships)
 - Title Screen with 'Press Start prompt' (It's the little things)
