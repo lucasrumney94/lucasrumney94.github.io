@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Game Dev: Kenney Game Jam"
+date:   2017-8-27 16:58:38 -0500
+categories: gamedev
+---
+
+In order to keep moving forward in game development I have decided to participate in a small jam called the Kenney Game Jam.
+
+The rules of the jam state that I could only use assets from the Kenney Asset Website. I made this small game in about 5 hours. 
+
+
+<iframe width="552" frameborder="0" height="167" src="https://itch.io/embed/171489"></iframe>
