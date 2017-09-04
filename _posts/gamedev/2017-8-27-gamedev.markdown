@@ -18,7 +18,7 @@ After considering what assets were available to me at the [Kenney Asset Website]
 
 Using a set of grass tiles from the Kenney Asset Pack that I hue-shifted to look like water, I instantiated a 100 by 100 grid, choosing random tiles and placing random islands along the way. The tiles all have mesh colliders so that the sea is a little more interesting to sail on, and because of their relatively simple geometry it wasn't too much of a perfomance impact. The ship itself has a capsule collider that sits above the keel at the 'water line' giving the impression that the boat is sailing. The tiles have a slippery and slightly bouny physics material applied to them to simulate a fake bouyancy effect.
 
-![collider]({{site.url}}/assets/gamedev/collider.png)
+![collider]({{site.url}}/assets/gamedev/collider.png){: .center-image }
 
 
 The axes of control given to the user are two dimensional. The user can steer the boat left and right (yaw), and apply forward and backward (local Z axis) force. Pitch is controlled completely by the forces applied to the boat by gravity and the terrain, allowing the user to 'ramp' off of waves and land. With a long enough capsule collider I did not have to worry about the boat flipping along this axis.

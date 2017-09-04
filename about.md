@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Hello I am Lucas. 
+# Hello I am Lucas.
 
 # Here is my Blog.
 
-![Photo]({{site.url}}/assets/img/aboutme.JPG)
+![Photo]({{site.url}}/assets/img/aboutme.JPG){: .center-image }
