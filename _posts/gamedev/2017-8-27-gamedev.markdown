@@ -25,9 +25,24 @@ Using a set of grass tiles from the Kenney Asset Pack that I hue-shifted to look
 The axes of control given to the user are two dimensional. The user can steer the boat left and right (yaw), and apply forward and backward (local Z axis) force. Pitch is controlled completely by the forces applied to the boat by gravity and the terrain, allowing the user to 'ramp' off of waves and land. With a long enough capsule collider I did not have to worry about the boat flipping along this axis.
 
 The roll is probably the most interesting axis I had to deal with. Gravity and the terrain influence this axis, but I needed a righting mechanism to simulate the movement of a boat. Using the cross product of the global positive Y axis and the local positive Y axis I found a vector that was either positive or negative based on if the boat was rolling left or right. Applying this corrective torque (which is proportional to how rolled over the ship is) in the roll axis allowed the boat to seem like it was floating in water. Testing was required to adjust both the torque and the angular drag on the boat to make sure its not under or over damped.
+{% highlight csharp %}
+/// <summary>
+/// Main class of the project
+/// </summary>
+class Program
+{
+    /// <summary>
+    /// Main entry point of the program
+    /// </summary>
+    /// <param name="args">Command line args</param>
+    static void Main(string[] args)
+    {
+        //Do stuff
+    }
+}
+{% endhighlight %}
 
-
-<img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" style="width: 132px;"/>
+<img src="{{site.url}}/assets/gamedev/correction.gif" alt="correction" style="width: 399px; text-align: center;"/>
 
 **Hindsight**
 
