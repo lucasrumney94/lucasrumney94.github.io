@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Game Dev: unofficial GameBoy jam"
+title:  "Unofficial GameBoy Jam"
 date:   2017-9-3 16:58:38 -0500
 categories: gamedev
 excerpt: Hello this is totally a test excerpt

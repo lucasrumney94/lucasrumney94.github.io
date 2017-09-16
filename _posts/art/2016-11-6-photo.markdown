@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Art: exploration of glitch"
+title:  "Exploration of Glitch"
 date:   2016-7-10 16:58:38 -0500
 categories: art
 ---
-I have been exploring glitch art. 
+I have been exploring glitch art.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFiaHi11AZNQsmnFaxLFFpg7UKQcCYk5b4Ian_jF6E82PPLLfuHCAFwyWEI2dFa93YJbg63T34pn3G/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -23,4 +23,3 @@ Library Article Excerpt:
 [myentry]: http://lucasrumney94.github.io/codeartv3/
 [codeartinfo]: https://www.lib.ncsu.edu/codeart
 [artwall]: https://www.lib.ncsu.edu/spaces/artwall
-

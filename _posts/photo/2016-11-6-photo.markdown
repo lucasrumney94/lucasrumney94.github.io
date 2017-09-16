@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Photo: abandoned factory grounds"
+title:  "Abandoned Factory Grounds"
 date:   2016-11-6 16:58:38 -0500
 categories: photography
 ---
-Exploring some abandoned factory grounds. 
+Exploring some abandoned factory grounds.
 
-Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]). 
+Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]).
 
 ![Photo]({{site.url}}/assets/img/11-6-2016/DSC00094.jpg)
 
@@ -18,7 +18,3 @@ Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]).
 
 
 [xueer]: https://github.com/sherryxzhu
-
-
-
-

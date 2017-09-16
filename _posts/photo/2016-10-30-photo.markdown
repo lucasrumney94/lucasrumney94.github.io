@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Photo: day in raleigh"
+title:  "Day in Raleigh"
 date:   2016-10-30 16:58:38 -0500
 categories: photography
 ---
-These are all some of the earliest images I took. All before 10/30/2016. 
+These are all some of the earliest images I took. All before 10/30/2016.
 
 
 ![Photo]({{site.url}}/assets/img/10-30-2016/IMG_3311.JPG)
@@ -24,9 +24,3 @@ These are all some of the earliest images I took. All before 10/30/2016.
 ![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0849.JPG)
 
 ![Photo]({{site.url}}/assets/img/10-30-2016/IMG_0887.JPG)
-
-
-
-
-
-

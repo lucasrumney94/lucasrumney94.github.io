@@ -1,26 +1,15 @@
 ---
 layout: post
-title:  "Music: recent sketches"
+title:  "Recent Sketches"
 date:   2016-11-27 17:59:38 -0500
 categories: music
 ---
 
-I've been finding more time to do music. 
+I've been finding more time to do music.
 
-I usually build concepts as fast as possible when they are in my mind and fresh, and then go back later to master, and add more layers. I guess its like sketching but for music. 
+I usually build concepts as fast as possible when they are in my mind and fresh, and then go back later to master, and add more layers. I guess its like sketching but for music.
 
 Here are a few recent sketches of mine.
 
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/275120624&amp;color=00cc11&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-
-
-
-
-
-
-
-
-
-

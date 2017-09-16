@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Photo: art museum & airport"
+title:  "Raleigh Art Museum & Airport"
 date:   2016-11-20 16:58:38 -0500
 categories: photography
 ---
 Art Museum Grounds and Airport Park
 
-Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]). 
+Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]).
 
 
 ![Photo]({{site.url}}/assets/img/11-20-2016/IMG_6094.JPG)
@@ -19,7 +19,3 @@ Color Grading courtesy of Xueer Zhu ([@sherryxzhu][xueer]).
 
 
 [xueer]: https://github.com/sherryxzhu
-
-
-
-
