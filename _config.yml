@@ -4,17 +4,28 @@ highlighter:      rouge
 
 # Setup
 title:            L
+
                   u
+
                   c
+
                   a
+
                   s
+
                   R
+
                   u
+
                   m
+
+                  n
+
                   e
-                  y  
+
+                  y
 tagline:          'I AM PROGRAMMER'
-description:      'A reall good Programmer'
+description:      'A really good Programmer'
 url:              https://lucasrumney94.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
