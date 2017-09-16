@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Lucas  Rumney
-tagline:          'I AM PROGRAMMER'
-description:      'A really good Programmer'
+tagline:          ''
+description:      ''
 url:              https://lucasrumney94.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -13,11 +13,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Lucas Rumney the Author'
-  url:            https://twitter.com/fongandrewc
 
-paginate:         7
+paginate:         8
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -33,5 +30,3 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout
