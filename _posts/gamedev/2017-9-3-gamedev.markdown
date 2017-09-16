@@ -3,6 +3,7 @@ layout: post
 title:  "Game Dev: unofficial GameBoy jam"
 date:   2017-9-3 16:58:38 -0500
 categories: gamedev
+excerpt: Hello this is totally a test excerpt
 ---
 
 ![GBJAM]({{site.url}}/assets/gamedev/GBJAM2017.png){: .center-image .width-fifty}
