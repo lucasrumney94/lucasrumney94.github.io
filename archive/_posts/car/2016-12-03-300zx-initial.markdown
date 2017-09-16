@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Car: 1987 300ZX introduction"
+date:   2016-12-03 13:50:38 -0500
+categories: car
+---
+
+
+
+
+I drive a 1987 Nissan Z31 300ZX.
+
+
+![car]({{site.url}}/assets/car/car.JPG)
+
+
+**Engine**  
+NA VG30E 9.0:1  
+165HP @ 5200RPM   
+173ft-lbs @ 4300RPM  
+Single OverHead Cam  
+
+**Transmission**  
+FSW71C  
+Nissan 5 Speed  
+Manual  
+
+**Differential**  
+Open  
+3.7:1   
+
+**Curb Weight**  
+~2900 lbs  
+
+**Top Speed (Factory)**  
+129 MPH  
+
+**Top Speed Achieved**  
+107 MPH  
+
+
+![car]({{site.url}}/assets/car/car2.jpg)
+
+
+Following photos courtesy of Xueer Zhu ([@sherryxzhu][xueer])
+
+![car]({{site.url}}/assets/car/car3.JPG)
+
+![car]({{site.url}}/assets/car/car4.JPG)
+
+
+
+[drive]:https://drive.google.com/drive/folders/0B8N1iKoxiWFLZTJfTjB2eGpJMWM?usp=sharing
+
+[xueer]: https://github.com/sherryxzhu

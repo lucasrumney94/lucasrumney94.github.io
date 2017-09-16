@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Game Dev: Kenney game jam"
+date:   2017-8-27 16:58:38 -0500
+categories: gamedev
+---
+
+**Project Goal and Rules**
+
+In order to keep moving forward in game development I have decided to participate in a small jam called the [Kenney Game Jam][kenney]. The rules of the jam state that I could only use assets from the [Kenney Asset Website][kenneyassets]. I made this small game in about 5 hours.
+
+<iframe width="100%" frameborder="0" src="https://itch.io/embed/171489"></iframe>
+
+<br/>
+**Dev Log**
+
+After considering what assets were available to me at the [Kenney Asset Website][kenneyassets], I decided to make a ship-based game. I have never before made a ship game. One of the challenges I knew I would have to consider is the 'feel' of the water and sailing physics, while also considering the limited time I had available for the jam. I would like to talk more about how I implemented the sailing.
+
+Using a set of grass tiles from the Kenney Asset Pack that I hue-shifted to look like water, I instantiated a 100 by 100 grid, choosing random tiles and placing random islands along the way. The tiles all have mesh colliders so that the sea is a little more interesting to sail on, and because of their relatively simple geometry it wasn't too much of a perfomance impact. The ship itself has a capsule collider that sits above the keel at the 'water line' giving the impression that the boat is sailing. The tiles have a low-friction and slightly bouncy physics material applied to them to simulate a fake bouyancy effect.
+
+![collider]({{site.url}}/assets/gamedev/collider.png)
+
+
+The axes of control given to the user are two dimensional. The user can steer the boat left and right (yaw), and apply forward and backward (local Z axis) force. Pitch is controlled completely by the forces applied to the boat by gravity and the terrain, allowing the user to 'ramp' off of waves and land. With a long enough capsule collider I did not have to worry about the boat flipping along this axis.
+
+The roll is probably the most interesting axis I had to deal with. Gravity and the terrain influence this axis, but I needed a righting mechanism to simulate the movement of a boat. Using the cross product of the global positive Y axis and the local positive Y axis I found a vector that was either positive or negative based on if the boat was rolling left or right. Applying this corrective torque (which is proportional to how rolled over the ship is) in the roll axis allowed the boat to seem like it was floating in water. Testing was required to adjust both the torque and the angular drag on the boat to make sure its not under or over damped.
+
+-----
+
+rigidbody.AddTorque(rightingForce*Vector3.Cross(transform.up, Vector3.up), ForceMode.Force);
+
+-----
+
+<br/>
+
+
+![correction]({{site.url}}/assets/gamedev/correction.gif){: .center-image .width-fifty}
+
+**Hindsight**
+
+In hindsight I could have fixed several things within the timeframe of the game jam. I could have allowed the playable area to be much larger by scaling up the tiles and spawning fewer of them. Also, in the same vein, I believe the sea 'waves' could have been less steep, allowing more fluid movement. I ran into some issues with implementing sound whose root cause lies in the filetypes I was attempting to use. If I had done audio work more recently in Unity, I believe this wouldn't have been an issue. Lastly, I am not so certain it makes sense to allow the player to sail backwards at full speed. I would, in hindsight, like to have applied a multiplier to the backwards force to make it very small. This would allow the player to move backwards in case of getting stuck, but it would be slow, almost as if they are having to 'paddle'.
+
+**Future**
+
+If I were to continue working on this project in the future the possible features could be:
+
+- Water Particle Effects (especially across the bow of ships)
+- Title Screen with 'Press Start prompt' (It's the little things)
+- more ship types
+- more island and obstruction types
+- ramps over islands
+- treasure chests to hit on top of islands requiring the use of ramps, granting gold
+
+
+
+[kenney]: https://itch.io/jam/kenney-jam-2017
+[kenneyassets]: http://kenney.nl/assets
