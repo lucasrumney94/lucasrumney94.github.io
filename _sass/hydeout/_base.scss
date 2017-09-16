@@ -19,13 +19,14 @@ html {
   font-size: $root-font-size;
   line-height: $root-line-height;
 
+
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;
   }
 }
 
 body {
-    background-color: #494747
+      background-color: #494747;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
