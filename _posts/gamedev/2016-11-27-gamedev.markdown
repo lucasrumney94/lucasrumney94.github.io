@@ -3,6 +3,7 @@ layout: post
 title:  "Past Projects"
 date:   2016-11-27 16:58:38 -0500
 categories: gamedev
+excerpt: Listing of previous game development projects  
 ---
 Here are some older game projects I had the pleasure of working on:
 

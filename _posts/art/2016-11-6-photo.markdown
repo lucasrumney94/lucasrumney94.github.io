@@ -3,6 +3,7 @@ layout: post
 title:  "Exploration of Glitch"
 date:   2016-7-10 16:58:38 -0500
 categories: art
+excerpt: Taking images apart bit by bit  
 ---
 I have been exploring glitch art.
 

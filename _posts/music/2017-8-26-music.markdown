@@ -3,6 +3,7 @@ layout: post
 title:  "Daily Sketches"
 date:   2017-8-26 17:59:38 -0500
 categories: music
+excerpt: Trying to improve myself every day, one song at a time  
 ---
 
 I've been thinking about how I can get myself to move my abilities forward on a daily basis. I think one way to do that is with a daily music sketch. I've already been doing it for 2 days, and will continue to post more as time moves forward.

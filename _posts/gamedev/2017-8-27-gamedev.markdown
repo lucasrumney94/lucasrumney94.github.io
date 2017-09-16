@@ -3,6 +3,7 @@ layout: post
 title:  "Kenney Game Jam"
 date:   2017-8-27 16:58:38 -0500
 categories: gamedev
+excerpt: Game Jam using only assets from the Kenney Site  
 ---
 
 **Project Goal and Rules**

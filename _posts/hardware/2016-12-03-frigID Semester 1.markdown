@@ -3,6 +3,7 @@ layout: post
 title:  "FrigID Design Day 1"
 date:   2016-12-03 12:50:38 -0500
 categories: hardware
+excerpt: University Senior Project with design notes   
 ---
 
 I recently participated in North Carolina State University's [ECE Senior Design Day][dday]. Students are given the choice of working on around 30 different projects that are sponsored by either companies or professors.

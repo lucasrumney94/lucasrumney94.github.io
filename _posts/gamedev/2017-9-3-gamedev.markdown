@@ -3,7 +3,7 @@ layout: post
 title:  "Unofficial GameBoy Jam"
 date:   2017-9-3 16:58:38 -0500
 categories: gamedev
-excerpt: Hello this is totally a test excerpt
+excerpt: A game jam with the visual theme of a Nintendo GameBoy  
 ---
 
 ![GBJAM]({{site.url}}/assets/gamedev/GBJAM2017.png){: .center-image .width-fifty}

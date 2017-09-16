@@ -3,6 +3,7 @@ layout: post
 title:  "Day in Raleigh"
 date:   2016-10-30 16:58:38 -0500
 categories: photography
+excerpt: some interesting views of Raleigh  
 ---
 These are all some of the earliest images I took. All before 10/30/2016.
 

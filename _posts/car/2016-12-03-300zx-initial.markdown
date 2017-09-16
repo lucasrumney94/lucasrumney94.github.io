@@ -3,6 +3,7 @@ layout: post
 title:  "1987 300ZX introduction"
 date:   2016-12-03 13:50:38 -0500
 categories: car
+excerpt: A introduction to the car I drive for entertainment  
 ---
 
 
