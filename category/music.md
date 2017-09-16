@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Edge Case
+title: Music
 category: music
 ---
