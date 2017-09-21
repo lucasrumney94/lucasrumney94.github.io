@@ -5,9 +5,6 @@ date:   2017-9-22 17:59:38 -0500
 categories: music
 excerpt: Listening is a learning experience.   
 ---
-```
-
-```
 
 # Recent Listening Experiences
 
