@@ -3,7 +3,7 @@ layout: post
 title:  "Trontlet (working title)"
 date:   2017-9-3 16:58:38 -0500
 categories: gamedev
-excerpt: A personal project with a larger scope.  
+excerpt: A personal project with a larger scope
 ---
 
 

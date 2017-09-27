@@ -3,7 +3,7 @@ layout: post
 title:  "Moving Forward"
 date:   2017-9-21 17:59:38 -0500
 categories: music
-excerpt: Listening is a learning experience.   
+excerpt: Listening is a learning experience
 ---
 
 **Daily Sketches**
