@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Lucas  Rumney
-tagline:          ''
-description:      ''
+tagline:
+description:      
 url:              https://lucasrumney94.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
