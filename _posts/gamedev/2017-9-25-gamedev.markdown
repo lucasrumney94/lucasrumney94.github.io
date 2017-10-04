@@ -13,9 +13,9 @@ As opposed to my music creation where I felt like I was limited by my skillset a
 
 In response to this observation I have decided to begin work on a more substantial, yet still medium-sized, personal project. I hope to fully publicize my development through the following channels:
 + Overall Progress and Ideas in periodic Development Journals
-+ Unity3D Project Files, including all code and assets on Github
-+ Current Feature Development KanBan board on WeKan
-+ Documentation of mechanics and design decisions in a Design Document on Google Drive
++ Unity3D Project Files, including all code and assets on [Github][github]
++ Current Feature Development KanBan board on [WeKan][wekan]
++ Documentation of mechanics and design decisions in a [Design Document on Google Drive][drive]
 
 **Development Journal**
 
@@ -26,3 +26,7 @@ In Trontlet, the overall goal of the player is to navigate to the end of the lev
 This project will give me an opportunity to work with maze generation algorithms, first person shooter mechanics, enemy pathfinding and behaviour, and polishing the graphics and sound to a new level. One of the obvious challenges I know I will face is how to use maze generation rules and the enemy behaviours to create an interesting progression. I opted for this programatic approach as it would let me play with maze algorithms, increase the replayability of Tontlet, as well as avoid the commonly under-estimated time investment needed to manually create content such as levels for games.
 
 Until next time!
+
+[github]:https://github.com/lucasrumney94/trontlet
+[wekan]:https://wekan.indie.host/b/Q5kySd7mRse2nDao5/tontlet
+[drive]:https://docs.google.com/document/d/16rARsNw27a7206gDjVhmQs9HzPyZMSeyvsH-dwy_U3U/edit?usp=sharing
