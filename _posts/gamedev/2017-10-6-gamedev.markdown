@@ -3,7 +3,7 @@ layout: post
 title:  "Trontlet Development Snapshot"
 date:   2017-10-6 16:58:38 -0500
 categories: gamedev
-excerpt:
+excerpt: A quick shot of a snappy title coming to an arcade near you
 ---
 
 

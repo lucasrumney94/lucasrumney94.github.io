@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trontlet (working title)"
+title:  "Trontlet, The Beginning"
 date:   2017-9-25 16:58:38 -0500
 categories: gamedev
 excerpt: A personal project with a larger scope
@@ -19,7 +19,7 @@ In response to this observation I have decided to begin work on a more substanti
 
 **Development Journal**
 
-Welcome to Trontlet! The shameless portmanteau standing in for a real project name. In case you were wondering: the name combines Gauntlet (the action arcade game) and TRON (a oft-referenced piece of cinema and Arcade history). While my game may not necessarily adhere to the strict orthographic neon design of TRON, it really seeks to capture and pay homage to the action arcade games such as Gauntlet. I think the feeling of being On-the-Grid (inside the computer) from Tron is what I want this game to be. I want this game to have an ordered, yet unsettling, feeling to its environment and enemies. The player should feel a foreigner. Gauntlet has a speed and risk versus reward factor that I want to emulate and extend to more complex systems in three dimensions.
+Welcome to Trontlet! The shameless portmanteau standing in for a real project name. In case you were wondering: the name combines Gauntlet (the action arcade game) and TRON (a oft-referenced piece of cinema and Arcade history). While my game may not necessarily adhere to the strict orthographic neon design of TRON, it really seeks to capture and pay homage to the action arcade games such as Gauntlet. The Tron-esque feeling of being On-the-Grid (inside the computer) is what I want this game to embody. I want this game to have an ordered, yet unsettling, feeling to its environment and enemies. The player should feel a foreigner. Gauntlet has a speed and risk versus reward factor that I want to emulate and extend to more complex systems in three dimensions.
 
 In Trontlet, the overall goal of the player is to navigate to the end of the level. The level itself will be a maze populated with enemies that will block the player from their goal. The player is equipped with a Coin-Operated Gun that shoots classic arcade tokens in a similar fashion to a plastic or foam disk launcher toy for children. Once a coin is fired from the gun, it can be reclaimed by walking over it where it landed, and be used to shoot again. The player's speed will be inversely proportional to the number of coins that they are holding. More specifically, a player with many coins will move slower, while a player with fewer coins will be able to move faster. In addition to movement speed, fire rate will be proportional to the number of coins a player has. A player with many coins will rapidly fire, while a player with fewer coins will fire slowly. This balances the strengths and weaknesses of each situation, while allowing a player to dynamically adjust their playstyle based on the situation.
 
