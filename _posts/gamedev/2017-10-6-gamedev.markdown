@@ -17,12 +17,31 @@ I implemented basic First Person Shooter movement for my game. There were severa
 
 *** Simple Maze Algorithm ***
 
-Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit I call a 'Cell'. Here is a Cell.
+Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit I call a 'Cell'.
+
+Here is a Cell.
+
 ![cell]({{site.url}}/assets/gamedev/trontlet/1.png)
+
+This is a grid generated with parameters width and length
+
 ![cell]({{site.url}}/assets/gamedev/trontlet/2.png)
+
+This is the basic result of the DFS maze implementation that can examined [here][mazegen]. C# has a stack data type that made this rather easy to implment.
 ![cell]({{site.url}}/assets/gamedev/trontlet/3.png)
+
+Here you can see I've added "Rooms" with random locations. The number of rooms can be controlled, as well as their size. These rooms could potentially spawn along the edge of the maze allowing a player a way to drop out of the maze.
+
 ![cell]({{site.url}}/assets/gamedev/trontlet/4.png)
+
+This is a larger maze test to show that my implmentation could handle mazes as large as I would need for the project. This was generated in under a second.
+
 ![cell]({{site.url}}/assets/gamedev/trontlet/5.png)
+
+
+In order to prevent the player from dropping out of the maze, I created a buffer around the edge of the maze that rooms are not allowed to be. In this picture, I set the number of rooms very high to totally destroy all walls within the set of valid room locations.
+
+![cell]({{site.url}}/assets/gamedev/trontlet/6.png)
 
 
 *** Coin-Operated Gun and guncoin ***
@@ -37,3 +56,7 @@ Based off of step by step descriptions of the Depth First Search (DFS) maze gene
 ** On the Horizon **
 
 *** Future Enemies ***
+
+
+
+[mazegen]:https://github.com/lucasrumney94/trontlet/blob/master/trontlet/Assets/script/Maze.cs#L25
