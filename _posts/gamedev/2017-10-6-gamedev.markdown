@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Trontlet Development Snapshot"
+date:   2017-10-6 16:58:38 -0500
+categories: gamedev
+excerpt:
+---
+
+
+** Completed **
+
+The following are completed items, some of which I will describe in greater detail.
+
+*** Basic FPS movement ***
+
+I implemented basic First Person Shooter movement for my game. There were several challenges that I faced here.
+
+*** Simple Maze Algorithm ***
+
+Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit I call a 'Cell'. Here is a Cell.
+![cell]({{site.url}}/assets/gamedev/trontlet/1.png)
+![cell]({{site.url}}/assets/gamedev/trontlet/2.png)
+![cell]({{site.url}}/assets/gamedev/trontlet/3.png)
+![cell]({{site.url}}/assets/gamedev/trontlet/4.png)
+![cell]({{site.url}}/assets/gamedev/trontlet/5.png)
+
+
+*** Coin-Operated Gun and guncoin ***
+
+*** Continuous Experience ***
+
+
+** In Development **
+
+***  ***
+
+** On the Horizon **
+
+*** Future Enemies ***
