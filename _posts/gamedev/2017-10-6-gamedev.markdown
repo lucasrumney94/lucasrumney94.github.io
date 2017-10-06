@@ -7,15 +7,15 @@ excerpt: A quick shot of a snappy title coming to an arcade near you
 ---
 
 
-** Completed **
+**Completed**
 
 The following are completed items, some of which I will describe in greater detail.
 
-*** Basic FPS movement ***
+***Basic FPS movement***
 
 I implemented basic First Person Shooter movement for my game. There were several challenges that I faced here.
 
-*** Simple Maze Algorithm ***
+***Simple Maze Algorithm***
 
 Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit I call a 'Cell'.
 
@@ -44,18 +44,17 @@ In order to prevent the player from dropping out of the maze, I created a buffer
 ![cell]({{site.url}}/assets/gamedev/trontlet/6.png)
 
 
-*** Coin-Operated Gun and guncoin ***
+***Coin-Operated Gun and guncoin***
 
-*** Continuous Experience ***
+***Continuous Experience***
 
 
-** In Development **
+**In Development**
 
-***  ***
 
-** On the Horizon **
+**On the Horizon**
 
-*** Future Enemies ***
+***Future Enemies***
 
 
 
