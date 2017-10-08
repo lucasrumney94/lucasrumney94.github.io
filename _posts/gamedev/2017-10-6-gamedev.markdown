@@ -24,30 +24,33 @@ Here is a Cell.
 
 This is a grid generated with parameters width and length
 
-![cell]({{site.url}}/assets/gamedev/trontlet/2.png)
+![grid]({{site.url}}/assets/gamedev/trontlet/2.png)
 
 This is the basic result of the DFS maze implementation that can examined [here][mazegen]. C# has a stack data type that made this rather easy to implement.
 
-![cell]({{site.url}}/assets/gamedev/trontlet/3.png)
+![maze]({{site.url}}/assets/gamedev/trontlet/3.png)
 
 Here you can see I've added "Rooms" with random locations. The number of rooms can be controlled, as well as their size. These rooms could potentially spawn along the edge of the maze allowing a player a way to drop out of the maze.
 
-![cell]({{site.url}}/assets/gamedev/trontlet/4.png)
+![rooms]({{site.url}}/assets/gamedev/trontlet/4.png)
 
 This is a larger maze test to show that my implmentation could handle mazes as large as I would need for the project. This was generated in under a second.
 
-![cell]({{site.url}}/assets/gamedev/trontlet/5.png)
+![stresstest]({{site.url}}/assets/gamedev/trontlet/5.png)
 
 
 In order to prevent the player from dropping out of the maze, I created a buffer around the edge of the maze that rooms are not allowed to be. In this picture, I set the number of rooms very high to totally destroy all walls within the set of valid room locations. Also seen is my Level Exit being placed within the maze.
 
-![cell]({{site.url}}/assets/gamedev/trontlet/6.png)
+![margin]({{site.url}}/assets/gamedev/trontlet/6.png)
 
 
 
 
 ***Coin-Operated Gun and guncoin***
-![cell]({{site.url}}/assets/gamedev/trontlet/7.gif)
+
+![coinop]({{site.url}}/assets/gamedev/trontlet/7.gif)
+
+
 
 ***Continuous Experience***
 
@@ -55,10 +58,12 @@ I want the level loading experience to be seamless, so I've added a tunnel that 
 
 
 **In Development**
+
 These are features that I will be focusing on during the coming week.
 
 ***Basic Enemy with Dynamic Navigation Mesh***
 
+A recently added bit of functionality in Unity, the dynamicly created and updated navmesh will allow me to generate a navmesh on the fly after my maze has been generated.  
 
 **On the Horizon**
 
