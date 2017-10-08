@@ -38,18 +38,14 @@ This is a larger maze test to show that my implmentation could handle mazes as l
 
 ![stresstest]({{site.url}}/assets/gamedev/trontlet/5.png)
 
-
 In order to prevent the player from dropping out of the maze, I created a buffer around the edge of the maze that rooms are not allowed to be. In this picture, I set the number of rooms very high to totally destroy all walls within the set of valid room locations. Also seen is my Level Exit being placed within the maze.
 
 ![margin]({{site.url}}/assets/gamedev/trontlet/6.png)
 
-
-
-
 ***Coin-Operated Gun and guncoin***
+The gun the player can use in the game is a coin operated arcage cabinet inspired arcade token coin-shooter gun. It will launch coins that will turn into player-collectable items upon collision with a solid such as a wall or enemy. This transition between projectile and collectable should be almost instantaneous, and should be visually appealing. I wanted the coin to 'plink' off the wall and fly off in a semi-predictable way.  
 
 ![coinop]({{site.url}}/assets/gamedev/trontlet/7.gif)
-
 
 
 ***Continuous Experience***
