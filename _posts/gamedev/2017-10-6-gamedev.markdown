@@ -63,7 +63,7 @@ A recently added bit of functionality in Unity, the dynamicly created and update
 
 **On the Horizon**
 
-These are upcoming features. 
+These are upcoming features.
 
 ***Future Enemies***
 
@@ -71,19 +71,17 @@ After building a basic placeholder enemy to eliminate any bugs with the basic lo
 
 1. Swarm Enemy
 
-This will be a collection of enemies that will swarm towards the player on the ground, challenging the player with a ton of weak enemies.
-
+    This will be a collection of enemies that will swarm towards the player on the ground, challenging the player with a ton of weak enemies.
 2. Snake Enemy
 
-This enemy will move in the air at about eye-level, in discrete steps, similar to really basic implementations of the game Snake. If the player shoots segments of the snake, it will split into two snakes. Snakes will be able to freely move through walls towards the player, but will have a distinct sound that allows them to be semi-accurately located via sound.
-
+    This enemy will move in the air at about eye-level, in discrete steps, similar to really basic implementations of the game Snake. If the player shoots segments of the snake, it will split into two snakes. Snakes will be able to freely move through walls towards the player, but will have a distinct sound that allows them to be semi-accurately located via sound.
 3. Beholder
 
-I absolutely Love these three things:
-+ Dungeons and Dragons
-+ DOOM
-+ Projectiles slow enough that you can dodge them if you pay attention
-
+    I absolutely Love these three things:
+    + Dungeons and Dragons
+    + DOOM
+    + Projectiles slow enough that you can dodge them if you pay attention
+    
 Although this Beholder may not be exactly the grinning fleshy stack of eyes we all know and love, I want to take a lot of the mechanics of the movement and projectile firing and give the player a more challenging enemy to fight that equally rewards them.
 
 
