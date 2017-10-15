@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Trontlet Development Snapshot"
+title:  "Trontlet, Development Snapshot"
 date:   2017-10-6 16:58:38 -0500
 categories: gamedev
-excerpt: A quick shot of a snappy title coming to an arcade near you
+excerpt: A quick snapshot of a snappy title coming to an arcade near you
 ---
 
 **Completed**
@@ -12,11 +12,11 @@ The following are completed features, some described in greater detail than othe
 
 ***Basic FPS movement***
 
-I implemented basic First Person Shooter movement for my game. There were several challenges that I faced here.
+I implemented basic First Person Shooter movement for my game. There were several challenges that I faced here. I had to decide whether or not to use Unity's default first person controller. I decided to write my own, because their fps controller is fairly bloated and includes features that I wasn't planning on implementing. I wanted this game to feel more snappy like Unreal Tournament. Requiring a snappy control scheme meant that I couldn't use Rigidbodies for the main character because the force applied had to overcome the static friction of the floor, resulting in what ultimately felt like an input lag. I attempted implementing a movement system with just a collider and simple translation, but because translation is not truly continuous movement, at high enough speeds it allowed a player to move through walls without the collision being detected. This led me to use Unity's Character Controller Component, which seems to check collisions continuously thereby avoiding the walk-through-walls bug, and allowing for more precise control.
 
 ***Simple Maze Algorithm***
 
-Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit I call a 'Cell'.
+Based off of step by step descriptions of the Depth First Search (DFS) maze generation algorithm, I created my own using a basic unit called a 'Cell'.
 
 Here is a Cell.
 
@@ -59,14 +59,38 @@ These are features that I will be focusing on during the coming week.
 
 ***Basic Enemy with Dynamic Navigation Mesh***
 
-A recently added bit of functionality in Unity, the dynamicly created and updated navmesh will allow me to generate a navmesh on the fly after my maze has been generated.  
+A recently added bit of functionality in Unity, the dynamicly created and updated navmesh will allow me to generate a navmesh on the fly after my maze has been generated. I will be experimenting with this in the next few days.
 
 **On the Horizon**
 
-These are upcoming features.
+These are upcoming features. 
 
 ***Future Enemies***
+
+After building a basic placeholder enemy to eliminate any bugs with the basic logic, I will be making 3 distinct enemy types for this game. For more information please refer to the [Design Document][drive]
+
+1. Swarm Enemy
+
+This will be a collection of enemies that will swarm towards the player on the ground, challenging the player with a ton of weak enemies.
+
+2. Snake Enemy
+
+This enemy will move in the air at about eye-level, in discrete steps, similar to really basic implementations of the game Snake. If the player shoots segments of the snake, it will split into two snakes. Snakes will be able to freely move through walls towards the player, but will have a distinct sound that allows them to be semi-accurately located via sound.
+
+3. Beholder
+
+I absolutely Love these three things:
++ Dungeons and Dragons
++ DOOM
++ Projectiles slow enough that you can dodge them if you pay attention
+
+Although this Beholder may not be exactly the grinning fleshy stack of eyes we all know and love, I want to take a lot of the mechanics of the movement and projectile firing and give the player a more challenging enemy to fight that equally rewards them.
+
+
+Until Next Time!
+
 
 
 
 [mazegen]:https://github.com/lucasrumney94/trontlet/blob/master/trontlet/Assets/script/Maze.cs#L25
+[drive]:https://docs.google.com/document/d/16rARsNw27a7206gDjVhmQs9HzPyZMSeyvsH-dwy_U3U/edit?usp=sharing
