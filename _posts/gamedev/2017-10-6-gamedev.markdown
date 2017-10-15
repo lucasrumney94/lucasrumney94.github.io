@@ -42,8 +42,9 @@ In order to prevent the player from dropping out of the maze, I created a buffer
 
 ![margin]({{site.url}}/assets/gamedev/trontlet/6.png)
 
-***Coin-Operated Gun and guncoin***
-The gun the player can use in the game is a coin operated arcage cabinet inspired arcade token coin-shooter gun. It will launch coins that will turn into player-collectable items upon collision with a solid such as a wall or enemy. This transition between projectile and collectable should be almost instantaneous, and should be visually appealing. I wanted the coin to 'plink' off the wall and fly off in a semi-predictable way.  
+***Coin-Operated Gun and Guncoin as a Unified Currency***
+
+The gun the player uses in the game is a coin operated arcade cabinet inspired arcade token shooting gun. It will launch coins that will turn into player-collectable items upon collision with a solid such as a wall or enemy. This transition between projectile and collectable should be almost instantaneous, and should be visually appealing. I wanted the coin to 'plink' off the wall and fly off in a semi-predictable way.  
 
 ![coinop]({{site.url}}/assets/gamedev/trontlet/7.gif)
 
@@ -81,7 +82,7 @@ After building a basic placeholder enemy to eliminate any bugs with the basic lo
     + Dungeons and Dragons
     + DOOM
     + Projectiles slow enough that you can dodge them if you pay attention
-    
+
 Although this Beholder may not be exactly the grinning fleshy stack of eyes we all know and love, I want to take a lot of the mechanics of the movement and projectile firing and give the player a more challenging enemy to fight that equally rewards them.
 
 
