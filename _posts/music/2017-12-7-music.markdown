@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Listen Learn Love"
+date:   2017-12-07 17:59:38 -0500
+categories: music
+excerpt: Here are some of my recent listens
+---
+
+**Recent Listening Experiences**
+
+Here are some of the songs that I have listened to recently (in no particular order):
+
+|   Artist                  |   Song                     |
+|---------------            |---------------             |
+| Saint Motel               | My Type                    |
+| Yeah Yeah Yeahs           | Heads Will Roll            |
+| Kendrick Lamar            | ELEMENT                    |
+| KNOWER                    | Time Traveler              |
+| Beck                      | Up All Night               |
+| MGMT                      | Little Dark Age            |
+
+
+Here are some albums that I have recently enjoyed beginning to end:
+
+|   Artist                                      |   Album              |
+|---------------                                |---------------       |
+| Portishead                                    | Third                |
