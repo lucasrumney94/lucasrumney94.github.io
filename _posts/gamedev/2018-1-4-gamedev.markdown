@@ -75,7 +75,7 @@ I know that I can effectively turn off 90% of this, block emails, and disable ce
 
 ![data]({{site.url}}/assets/gamedev/data_not.png){: .center-image .width-fifty}
 
-Another Notification that occurs every time I turn off my cell data.
+Another Notification that occurs *every single time* I turn off my cell data.
 
 THE MORE YOU KNOW!
 
