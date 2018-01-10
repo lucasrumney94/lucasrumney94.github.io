@@ -33,6 +33,8 @@ I would say that a fire alarm's purpose is to inform people of a fire on the pre
 
 Another, more common example of this is the widespread usage of the "CAUTION: WET FLOOR" sign, which coincidentally is the only reason I know the Spanish word for caution. It's a sign used at so many businesses to try to avoid injury liability, yet I've seen them left in place for weeks. In that case, a warning becomes ignorable decor.
 
+---
+
 
 **Internet of Notifications**
 
@@ -73,7 +75,12 @@ I know that I can effectively turn off 90% of this, block emails, and disable ce
 
 ![data]({{site.url}}/assets/gamedev/data_not.png){: .center-image .width-fifty}
 
-Another Notification that occurs every time I turn off my cell data. THE MORE YOU KNOW!
+Another Notification that occurs every time I turn off my cell data.
+
+THE MORE YOU KNOW!
+
+
+---
 
 
 **Gamification**
@@ -86,4 +93,6 @@ Until we have real AI butlers to sort our lives out for us, it will be our fate 
 Slowly, content will contain more advertisement, monetization, and predatory design until it becomes the standard. Television, Computers, Websites, Mobile Games (pick your generation) are the quintessential example of this trend.
 
 What is the next frontier?
+
+
 ![data]({{site.url}}/assets/gamedev/spider.png){: .center-image .width-fifty}
