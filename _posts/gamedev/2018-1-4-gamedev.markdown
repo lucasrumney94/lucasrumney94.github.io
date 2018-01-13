@@ -3,7 +3,7 @@ layout: post
 title:  "Modern Conveniences"
 date:   2018-1-4 16:58:38 -0500
 categories: gamedev
-excerpt: Mod Cons are not what you think...
+excerpt: Mod Cons are not what you think
 ---
 
 **Notifications**
