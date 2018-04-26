@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Most Interfaces are Interferences"
+date:   2018-2-20 16:58:38 -0500
+categories: gamedev
+excerpt: How can an interface
+---
+
+**Control and Questions**
+
+*"When computers stop asking me what to do, and start telling me, I lose my humanity.
+While you might think that this remains to happen far in the future, every day my computer asks more of me than I ask of it."*
+
+Whether it's Amazon Alexa telling me that my hue lights don't exist, an Operating System (like Microsoft Windows or Apple macOS) telling me that it's going to shut down and install updates, or an Android phone telling me that turning off my data means (here comes the shocker) that I can't use data... I can't seem to escape from computers that believe they know what's better for me than I do.
+
+Updates are important. As a community of developers, gamers, writers, digital musicians, researchers...
+We can all agree that updates are important and can prevent significant security breaches or system failures.
+We also know how specific our setups are. Whether its web development, application development for desktop or mobile, blogging, writing news articles, mixing down a new track, setting up drivers for a special piece of hardware in research. It doesn't matter. An update can break our stuff. An update notification can interrupt a screen capture, a stream, a business meeting, or even worse it can interrupt your workflow every single hour until you submit.
+
+What companies do not understand is that an update is not more important than my life. An update is not more important than the moments I am immersed in the act of creation or an experience like a film or game.
+
+Our lives all have an inseparable digital component.
+We have life-changing meetings in tele-presence...
+
+Our workflow is the way we set it up for a reason...
+
+We experience and immerse ourselves within digital content like movies and games...
+
+We create, We destroy... on the screens that we work with every day.
+
+It's not an operating system's purpose to interrupt that.
+
+It's an operating system's purpose to deliver that.
+
+It's an operating system's purpose to ensure that content gets delivered and that the content's integrity is not compromised by a system-level pop-up ad.
+
+With voice assistants, the problem becomes remarkably apparent because a user is ostensibly talking to a digital butler. How would you like it if a butler corrected you, refused to do work, or denied the existence of the lights that are inches away? Am I paying to be corrected? Am I paying to be treated like an idiot?
+
+**System-Level Fault**
+
+The companies who control the very systems we carry out all of our work on have the most power of any software companies. These companies seem to be filled to the brim with tone-deaf marketing slogans and propaganda. These companies have such clever new features for every inch of their new systems, yet they are unable to acknowledge when an entire community of users is screaming up at them in their ivory towers.
+
+Interfaces don't make for good marketing slides. The best interfaces are ones we hardly notice, ones that are intuitive and functional. Unfortunately, marketing slides are what makes money. Additionally, Microsoft seems to think that it's OS should actually comprise of marketing slides...
+
+![Edgead]({{site.url}}/assets/gamedev/edgead.png)
+
+The best systems don't tell the user what to do.
+The best systems know where to draw the line between background automation and user control. This line is called an interface.
+
+Ultimately, Updates need real categorization that is more granular, and companies need to be more transparent and responsible. (Windows 10 is not an important Windows 7 update. It's an UPGRADE that shouldn't be forced down the throats of your user base).
+
+**User Agency through User Agents**
+**Feeding Your Daemons**
+
+I shouldn't have to do everything.
+My computer shouldn't have to do everything.
+
+I should be able to shoot first, ask questions later.
+My computer should ask questions later and shoot when I am asleep.
+
+
+
+
+
+?
+
+User Action -> AI -> Learned Local Profile
+
+Learn user's preferences through action.
