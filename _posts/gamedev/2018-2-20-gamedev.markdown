@@ -15,11 +15,16 @@ Whether it's Amazon Alexa telling me that my hue lights don't exist, an Operatin
 
 Updates are important. As a community of developers, gamers, writers, digital musicians, researchers...
 We can all agree that updates are important and can prevent significant security breaches or system failures.
-We also know how specific our setups are. Whether its web development, application development for desktop or mobile, blogging, writing news articles, mixing down a new track, setting up drivers for a special piece of hardware in research. It doesn't matter. An update can break our stuff. An update notification can interrupt a screen capture, a stream, a business meeting, or even worse it can interrupt your workflow every single hour until you submit.
+We also know how specific our setups are. Whether its web development, application development for desktop or mobile, blogging, writing news articles, mixing down a new track, setting up drivers for a special piece of hardware in research... It doesn't matter:
 
-What companies do not understand is that an update is not more important than my life. An update is not more important than the moments I am immersed in the act of creation or an experience like a film or game.
+An update can break our stuff.
+
+An update notification can interrupt a screen capture, a stream, a business meeting, or even worse it can interrupt your workflow every single hour until you submit.
+
+What companies do not seem to understand is that an update is not more important than my life. An update is not more important than the moments I spend immersed in the act of creation or within an experience like a film or game.
 
 Our lives all have an inseparable digital component.
+
 We have life-changing meetings in tele-presence...
 
 Our workflow is the way we set it up for a reason...
@@ -28,42 +33,44 @@ We experience and immerse ourselves within digital content like movies and games
 
 We create, We destroy... on the screens that we work with every day.
 
-It's not an operating system's purpose to interrupt that.
+It is not an operating system's purpose to interrupt that.
 
-It's an operating system's purpose to deliver that.
+It is an operating system's purpose to *deliver* that.
 
-It's an operating system's purpose to ensure that content gets delivered and that the content's integrity is not compromised by a system-level pop-up ad.
+It is an operating system's purpose to ensure that content gets delivered and that the content's integrity is not compromised by a system-level pop-up ad.
 
 With voice assistants, the problem becomes remarkably apparent because a user is ostensibly talking to a digital butler. How would you like it if a butler corrected you, refused to do work, or denied the existence of the lights that are inches away? Am I paying to be corrected? Am I paying to be treated like an idiot?
 
 **System-Level Fault**
 
-The companies who control the very systems we carry out all of our work on have the most power of any software companies. These companies seem to be filled to the brim with tone-deaf marketing slogans and propaganda. These companies have such clever new features for every inch of their new systems, yet they are unable to acknowledge when an entire community of users is screaming up at them in their ivory towers.
+The companies who develop (control) the systems we use every day have the most power of any software companies. These companies seem to be filled to the brim with tone-deaf marketing slogans and propaganda. These companies have *such* clever new features for every inch of their new systems, yet they fail to even acknowledge when an entire community of users or developers is screaming up at them in their ivory towers.
 
-Interfaces don't make for good marketing slides. The best interfaces are ones we hardly notice, ones that are intuitive and functional. Unfortunately, marketing slides are what makes money. Additionally, Microsoft seems to think that it's OS should actually comprise of marketing slides...
+Good interfaces don't make for good marketing slides. The best interfaces are ones we hardly notice, ones that are intuitive and functional. Unfortunately, marketing slides are what makes money. Further, Microsoft especially seems to think that it's OS should comprise of marketing slides...
 
 ![Edgead]({{site.url}}/assets/gamedev/edgead.png)
+
+*It's my fault for not using Edge*
+
 
 The best systems don't tell the user what to do.
 The best systems know where to draw the line between background automation and user control. This line is called an interface.
 
-Ultimately, Updates need real categorization that is more granular, and companies need to be more transparent and responsible. (Windows 10 is not an important Windows 7 update. It's an UPGRADE that shouldn't be forced down the throats of your user base).
+Ultimately, updates need real categorization that is more granular, and companies need to be more transparent and responsible. For example: Windows 10 is not an important Windows 7 update. It's an UPGRADE that shouldn't be forced down the throats of a user base whose work may depend on some of the drivers, features, or program support that Windows 7 has that Windows 10 didn't at the time.
 
 **User Agency through User Agents**
-**Feeding Your Daemons**
+**AKA Feeding Your Daemons**
 
 I shouldn't have to do everything.
+
 My computer shouldn't have to do everything.
 
-I should be able to shoot first, ask questions later.
-My computer should ask questions later and shoot when I am asleep.
+As a User, I should be able to shoot first and ask questions later. On the other hand, my computer should ask questions later and shoot while I am asleep.
+
+This could be achieved rather simply by asking the user before they turn of their machine if they would like to update. Current operating systems do not ask, or force the update, wasting the time of a user that simply wanted a quick reboot.
+
+Ultimately, I believe that the solution will come in the form of Artificial Intelligence. The user performs thousands of actions per day that are all captured by the computer sitting in front of them. Using an AI to learn what is important to a user, what processes the computer should manage in the background, and what questions to ask the user, and perhaps most importantly, *when* to ask those questions.
+
+This process would take user action and turn it into a local profile for the OS to operation. It would essentially delineate the interface between user and daemon through learning user's preferences. This system would provide accessible overrides and options for developers, tinkerers or special applications, but for the general consumer would be sufficient.
 
 
-
-
-
-?
-
-User Action -> AI -> Learned Local Profile
-
-Learn user's preferences through action.
+Unfortunately, I know of no company mature enough to make the executive decision to keep this data completely encrypted and private per user. Capturing User Data and actions at this granular level presents a unique security risk and new profit frontier for data brokers (employed at Fortune 500's or otherwise).
