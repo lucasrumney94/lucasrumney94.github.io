@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Most Interfaces are Interferences"
+title:  "Interfaces or Interferences?"
 date:   2018-2-20 16:58:38 -0500
 categories: gamedev
-excerpt: How can an interface
+excerpt: How a whiz-bang interface can choke your workflow
 ---
 
 **Control and Questions**
