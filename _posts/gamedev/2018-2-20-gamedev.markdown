@@ -49,8 +49,7 @@ Good interfaces don't make for good marketing slides. The best interfaces are on
 
 ![Edgead]({{site.url}}/assets/gamedev/edgead.png)
 
-*It's my fault for not using Edge*
-
+*It's my fault for not using Edge -- source: [reddit][redditpic]*
 
 The best systems don't tell the user what to do.
 The best systems know where to draw the line between background automation and user control. This line is called an interface.
@@ -74,3 +73,6 @@ This process would take user action and turn it into a local profile for the OS 
 
 
 Unfortunately, I know of no company mature enough to make the executive decision to keep this data completely encrypted and private per user. Capturing User Data and actions at this granular level presents a unique security risk and new profit frontier for data brokers (employed at Fortune 500's or otherwise).
+
+
+[redditpic]:https://www.reddit.com/r/Windows10/comments/4wb2wz/ms_edge_lock_screen_ads_anyone_figure_out_how_to/
