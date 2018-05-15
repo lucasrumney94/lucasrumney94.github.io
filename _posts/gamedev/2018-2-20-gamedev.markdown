@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interfaces or Interferences?"
+title:  "Interface or Interference?"
 date:   2018-2-20 16:58:38 -0500
 categories: gamedev
 excerpt: How a whiz-bang interface can choke your workflow
