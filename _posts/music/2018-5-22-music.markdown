@@ -3,13 +3,14 @@ layout: post
 title:  "Listen Learn Love"
 date:   2018-05-22 17:59:38 -0500
 categories: music
-excerpt: Here are some songs that interest me...
+excerpt: Here are some songs that are interesting
 ---
 
 **Recent Listening Experiences**
 
 It's been a while! Here's a ton of songs I Love!
 I had a little more fun with this one, mixing in the old and the new.
+These are guaranteed to be interesting. 
 
 
 |   Artist                  |   Song                     |
