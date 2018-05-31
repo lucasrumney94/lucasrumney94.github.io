@@ -9,14 +9,27 @@ body {
 }
 
 .center{
+
     text-align: center;
 }
-table.center {
-    margin-left:auto;
-    margin-right:auto;
+
+p{
+    font-size: 150%;
+    font-family:Tahoma, Geneva, sans-serif;
+}
+
+.blurb{
+
+    padding-left:20%;
+    padding-right:20%;
+
   }
 
-.smallImg{
-    height: 100px;
-    width: 100px;
+a{
+    color: green;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
 }
