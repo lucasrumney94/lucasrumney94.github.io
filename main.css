@@ -1,14 +1,14 @@
 body {
-    background-color: black;
+    background-color: #0f0f0f;
     color: white;
 
 }
 
 .big{
     font-size: 750%;
-    font-family: trajan-sans-pro, sans-serif;
-    font-style: normal;
-    font-weight: 900;
+    font-family: 'Lato', sans-serif;
+    font-style: bold;
+    font-weight: 700;
 }
 
 .center{
@@ -19,7 +19,7 @@ body {
 p{
     line-height: 2em;
     font-size: 150%;
-    font-family:Tahoma, Geneva, sans-serif;
+    font-family: Tahoma, Geneva, sans-serif;
 }
 
 .blurb{
@@ -30,10 +30,10 @@ p{
   }
 
 a{
-    color: green;
+    color: #70FF70;
     text-decoration: none;
 }
 a:hover{
-    color: green;
+    color: lightgreen;
     text-decoration: underline;
 }
