@@ -6,6 +6,9 @@ body {
 
 .big{
     font-size: 750%;
+    font-family: trajan-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 900;
 }
 
 .center{
