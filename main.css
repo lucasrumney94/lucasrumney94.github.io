@@ -1,7 +1,6 @@
 body {
-    background-color: #0f0f0f;
+    background-color: #000000;
     color: white;
-
 }
 
 .big{
@@ -23,14 +22,12 @@ p{
 }
 
 .blurb{
-
     padding-left:20%;
     padding-right:20%;
-
   }
 
 a{
-    color: #70FF70;
+    color: #34FF6D;
     text-decoration: none;
 }
 a:hover{
