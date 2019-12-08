@@ -86,7 +86,7 @@ body {
 }
 
 .feeling-lyrics-content{
-    max-height: 0;
+    max-height: 0px;
     overflow: hidden;
     line-height: 2em;
     font-size: 100%;
@@ -104,7 +104,7 @@ body {
 }
 
 .dontcare-lyrics-content{
-    max-height: 0;
+    max-height: 0px;
     overflow: hidden;
     line-height: 2em;
     font-size: 100%;
@@ -122,7 +122,7 @@ body {
 }
 
 .nightride-lyrics-content{
-    max-height: 0;
+    max-height: 0px;
     overflow: hidden;
     line-height: 2em;
     font-size: 100%;
