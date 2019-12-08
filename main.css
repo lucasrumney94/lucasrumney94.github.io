@@ -63,7 +63,81 @@ body {
 .audio-player{
     width: 100%;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
+}
+
+.audio-description{
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+}
+
+.lyrics-label-text{
+    line-height: 2em;
+    font-size: 120%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+    background: #222222;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+
+#feeling-lyrics-toggler {
+    position: absolute;
+    left:-9000px;
+}
+
+#feeling-lyrics-toggler:checked ~ .feeling-lyrics-content{
+    max-height: 100%;
+}
+
+.feeling-lyrics-content{
+    max-height: 0;
+    overflow: hidden;
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+}
+
+#dontcare-lyrics-toggler {
+    position: absolute;
+    left:-9000px;
+}
+
+#dontcare-lyrics-toggler:checked ~ .dontcare-lyrics-content{
+    max-height: 100%;
+}
+
+.dontcare-lyrics-content{
+    max-height: 0;
+    overflow: hidden;
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+}
+
+#nightride-lyrics-toggler {
+    position: absolute;
+    left:-9000px;
+}
+
+#nightride-lyrics-toggler:checked ~ .nightride-lyrics-content{
+    max-height: 100%;
+}
+
+.nightride-lyrics-content{
+    max-height: 0;
+    overflow: hidden;
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
 }
 
 p{
