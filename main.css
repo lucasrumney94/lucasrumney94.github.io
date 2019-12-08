@@ -85,6 +85,14 @@ body {
     user-select: none;
 }
 
+.feeling-lyrics-content{
+    max-height: 0;
+    overflow: hidden;
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+}
 
 #feeling-lyrics-toggler {
     position: absolute;
@@ -95,7 +103,7 @@ body {
     max-height: 100%;
 }
 
-.feeling-lyrics-content{
+.dontcare-lyrics-content{
     max-height: 0;
     overflow: hidden;
     line-height: 2em;
@@ -113,7 +121,7 @@ body {
     max-height: 100%;
 }
 
-.dontcare-lyrics-content{
+.nightride-lyrics-content{
     max-height: 0;
     overflow: hidden;
     line-height: 2em;
@@ -131,14 +139,7 @@ body {
     max-height: 100%;
 }
 
-.nightride-lyrics-content{
-    max-height: 0;
-    overflow: hidden;
-    line-height: 2em;
-    font-size: 100%;
-    font-family: Tahoma, Geneva, sans-serif;
-    margin: 0px;
-}
+
 
 p{
     line-height: 2em;
