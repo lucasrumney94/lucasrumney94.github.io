@@ -144,7 +144,23 @@ body {
     max-height: 100%;
 }
 
+.affliction-lyrics-content{
+    max-height: 0px;
+    overflow: hidden;
+    line-height: 2em;
+    font-size: 100%;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 0px;
+}
 
+#affliction-lyrics-toggler {
+    position: absolute;
+    left:-9000px;
+}
+
+#affliction-lyrics-toggler:checked ~ .affliction-lyrics-content{
+    max-height: 100%;
+}
 
 p{
     line-height: 2em;
