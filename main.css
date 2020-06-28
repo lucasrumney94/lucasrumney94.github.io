@@ -23,7 +23,7 @@ hr {
     border-top:1px dashed #076e43;
 }
 
-a.shaderToyLogo {
+.shaderToyLogo {
     font-size: 1.6em;
     font-family: 'Lobster', cursive;
     color:white;
