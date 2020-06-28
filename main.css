@@ -12,3 +12,22 @@ body {
   top: 50%;
   transform: translateY(-50%);*/
 }
+
+.vertically-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+hr {
+    border-top:1px dashed #076e43;
+}
+
+a.shaderToyLogo {
+    font-size: 1.6em;
+    font-family: Lobster,Tahoma,Arial;
+    color:white;
+    text-decoration: none;
+    padding-left: 32px;
+    padding-right: 32px;
+}
