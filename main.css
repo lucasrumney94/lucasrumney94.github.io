@@ -35,11 +35,6 @@ hr {
     text-align: center;
 }
 
-.smallSquare{
-    height: 32px;
-    width: 32px;
-}
-
 .shaderToyLogo {
     font-size: 1.6em;
     font-family: 'Lobster', cursive;
@@ -47,6 +42,24 @@ hr {
     text-decoration: none;
     padding-left: 32px;
     padding-right: 32px;
+}
+
+img.smallSquare{
+    height: 32px;
+    width: 32px;
+}
+
+img.proj
+{
+    float:none;
+    width:  250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+img.bigproj
+{
+    width: 100%;
 }
 
 /*ScrollBar*/
