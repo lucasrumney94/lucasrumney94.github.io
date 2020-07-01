@@ -9,8 +9,6 @@ body {
                                     supported by Chrome, Edge, Opera and Firefox */
 }
 
-
-
 hr {
     border-top:1px dashed #076e43;
 }
@@ -60,6 +58,10 @@ img.proj
 img.bigproj
 {
     width: 100%;
+}
+
+img.inverted {
+    filter: brightness(0) invert(1);
 }
 
 /*ScrollBar*/
