@@ -1,7 +1,19 @@
 body {
     background-color: #303030;
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
 }
 
+
+
+hr {
+    border-top:1px dashed #076e43;
+}
 
 .button-large {
 /*  font-size: 1.4rem;
@@ -19,8 +31,13 @@ body {
     transform: translateY(-50%);
 }
 
-hr {
-    border-top:1px dashed #076e43;
+.center {
+    text-align: center;
+}
+
+.smallSquare{
+    height: 32px;
+    width: 32px;
 }
 
 .shaderToyLogo {
@@ -30,4 +47,26 @@ hr {
     text-decoration: none;
     padding-left: 32px;
     padding-right: 32px;
+}
+
+/*ScrollBar*/
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #202020;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0bde86;
 }
